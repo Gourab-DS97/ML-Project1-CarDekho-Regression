@@ -12,3 +12,7 @@ Our objective is to predict selling price of used cars in CarDekho website, when
 * Seller_Type : Individual / Dealer
 * Transmission : Manual or Automatic
 * Owner : First owner/ second / third owner 
+## Models Used:
+* Linear Regression
+* Decision Tree
+* Random Forest
